@@ -2,7 +2,7 @@
 
 Multi-warehouse inventory & stock management demo.
 
-**Live demo:** _LIVE_URL_
+**Live demo:** https://stockpilot-inventory-chi.vercel.app
 
 > Demo data is generated in the browser and saved to `localStorage`, so every visitor gets their own sandbox. Create, edit and delete freely — use **Reset demo data** to start over.
 
